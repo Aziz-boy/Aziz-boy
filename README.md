@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Azizboy A passionate Full-stack developer from Uzbekistan 🔭 I’m currently working on freelance<br><br>🌱 I’m currently learning Fremeworks<br><br>📝 I regularly write articles on https://t.me/azizboys_page<br><br>💬 Ask me about HTMl,CSS , JS ,Next JS , bootstrap, slider , gsap ( scroll ) , wow js , jQuery , SCSS , TailwindCSS<br><br>📫 How to reach me shavgoniaziz@gmail.com<br><br>📄 Know about my experiences https://azizboys_page<br><br><br>
+Hi 👋, I'm Azizboy A passionate Full-stack developer from Uzbekistan 🔭 I’m currently working on freelance<br><br>🌱 I’m currently learning Fremeworks<br><br>📝 I regularly write articles on https://t.me/azizboys_page<br><br>💬 Ask me about HTMl ,CSS , JS ,Next JS , bootstrap, slider , gsap ( scroll ) , wow js , jQuery , SCSS , TailwindCSS<br><br>📫 How to reach me shavgoniaziz@gmail.com<br><br>📄 Know about my experiences https://azizboys_page<br><br><br>
 
 
 ## 🌐 Socials:
