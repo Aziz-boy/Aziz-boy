@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,swift,javascript,typescript,express,firebase,mongodb,nextjs,codepen,css,docker,figma,git,github,gmail,html,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,swift,javascript,typescript,express,firebase,mongodb,nextjs,codepen,css,docker,figma,git,github," /><br>
 </div>
 
 <br/>
@@ -62,11 +62,17 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aziz-boy&theme=javascript-dark" alt="GitHub Streak" /></a>
+    
   ![Aziz-boy's Stats](https://github-readme-stats.vercel.app/api?username=Aziz-boy&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+  
   <br/>
+  
   ![Aziz-boy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aziz-boy&theme=highcontrast&hide_border=true)
+  
   <br/>
+  
   ![Aziz-boy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-boy&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+  
 </div>
 
 <br/>
